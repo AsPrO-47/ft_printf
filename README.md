@@ -2,4 +2,6 @@ this project about making a very small and limited ft_printf like "printf" , usi
 
 
 --------HOW  TO USE---------
-just run make
+clone this repo in you machine which should have GCC (GNU C COMPILER), or just the regular CC(C COMPILER)
+you can create a small main to see the magical ft_printf
+then run make in the main directory
